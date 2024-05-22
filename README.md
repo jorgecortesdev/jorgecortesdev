@@ -1,13 +1,13 @@
 <img align="center" src="https://raw.githubusercontent.com/jorgecortesdev/jorgecortesdev/main/art/banner-jorgecortesdev.png" alt="Jorge Cortés" />
 <br>
 
-<div align="right">
+<p align="right">
 
 ![GitHub followers](https://img.shields.io/github/followers/jorgecortesdev)
 ![GitHub User's stars](https://img.shields.io/github/stars/jorgecortesdev)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOthWYvuDRE8N5D6X7tfXWQ?style=social&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCOthWYvuDRE8N5D6X7tfXWQ%3Fsub_confirmation%3D1)
 
-</div>
+</p>
 
 <p>A passionate web developer, full-stack web developer tutor and musician, from Hermosillo, Sonora, México.</p>
 
