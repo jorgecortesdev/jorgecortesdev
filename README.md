@@ -8,7 +8,7 @@
 
 </p>
 
-<p>A passionate web developer, full-stack web developer tutor and musician, from Hermosillo, Sonora, México.</p>
+<p>A passionate web developer, full-stack web developer tutor, and musician, from Hermosillo, Sonora, México.</p>
 
 <p><strong>Connect with me:</strong></p>
 <p>
