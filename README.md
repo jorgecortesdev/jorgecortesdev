@@ -23,4 +23,4 @@
 <summary>:zap: Github Stats</summary>
 
 [![Github Stats](https://github-readme-stats-jorgecortesdevs-projects.vercel.app/api?username=jorgecortesdev&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&theme=react&custom_title=GitHub%20Stats)](https://github.com/jorgecortesdev/github-readme-stats)
-[![Top Langs](https://github-readme-stats-jorgecortesdevs-projects.vercel.app/api/top-langs/?username=jorgecortesdev&layout=pie&theme=react)](https://github.com/jorgecortesdev/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jorgecortesdevs-projects.vercel.app/api/top-langs/?username=jorgecortesdev&layout=compact&theme=react)](https://github.com/jorgecortesdev/github-readme-stats)
