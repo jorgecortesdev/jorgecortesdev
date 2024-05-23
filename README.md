@@ -10,6 +10,8 @@
 
 <p>A passionate web developer, full-stack web developer tutor, and musician, from Hermosillo, Sonora, México.</p>
 
+<br>
+
 <p><strong>:zap: Connect with me:</strong></p>
 
 <p>
@@ -17,6 +19,8 @@
 <a href="https://x.com/jorgecortesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/jorgecortesdev/jorgecortesdev/main/art/x.svg" alt="jorgecortesdev" height="30" /></a>
 <a href="https://www.youtube.com/c/codigoycafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/jorgecortesdev/jorgecortesdev/main/art/youtube.svg" alt="codigoycafe" height="30" /></a>
 </p>
+
+<br>
 
 <p><strong>:zap: Languages and Tools:</strong></p>
 
