@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/jorgecortesdev/jorgecortesdev/main/art/banner-jorgecortesdev-github-1024x640.jpg" alt="Jorge Cortés" height="200" width="100%"/>
+<img align="center" src="https://raw.githubusercontent.com/jorgecortesdev/jorgecortesdev/main/art/banner-jorgecortesdev-github-1024x640.jpg" alt="Jorge Cortés" />
 
 <p>
 
